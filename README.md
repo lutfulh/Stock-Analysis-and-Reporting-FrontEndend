@@ -53,6 +53,8 @@ VITE_API_ENDPOINT=your_api_endpoint_here
 
 Here's what the Stock Analysis Tool looks like after performing an analysis:
 
+![image](https://github.com/lutfulh/Stock-Analysis-and-Reporting-FrontEndend/assets/25671509/6331ae1c-033f-4f02-8181-a449051e8b2d)
+
 
 ### License
 
