@@ -48,7 +48,6 @@ This project uses npm as a package manager. If you haven't installed it yet, fol
 
 VITE_API_ENDPOINT=your_api_endpoint_here
 
-### Final Result 
 
 ## Final Result
 
